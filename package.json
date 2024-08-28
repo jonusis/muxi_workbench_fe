@@ -42,7 +42,7 @@
     "source-map-explorer": "^1.7.0",
     "start": "^5.1.0",
     "tinymce": "^5.0.7",
-    "webpack": "4.19.1"
+    "webpack": "5.94.0"
   },
   "scripts": {
     "analyze": "source-map-explorer build/static/js/1.*",
